@@ -1,0 +1,9 @@
+.no-results {
+    color: #fff;
+    font-size: 64px;
+}
+
+.page.main {
+    display: flex;
+    justify-content: center;
+}
